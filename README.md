@@ -3,7 +3,7 @@
 A simple web application to calculate the factorial of a given number using both iterative and recursive methods.
 
 ## File
-This index.html file contains HTML, CSS, JS
+This `index.html` file contains HTML, CSS, JS
 
 ## Features
 - Calculate factorial using iterative and recursive methods.
