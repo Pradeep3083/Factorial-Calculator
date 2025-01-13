@@ -1,31 +1,27 @@
-# Factorial Calculator
+# Factorial Calculator (Modal Popup)
 
-A simple web application to calculate the factorial of a given number using both iterative and recursive methods.
+## Overview
+A simple web-based factorial calculator that uses both iterative and recursive methods. The calculator is displayed inside a modal popup with smooth animations.
 
-## File
-This `index.html` file contains HTML, CSS, JS
+## Key Features
+- **Modal Popup:** Opens on button click.
+- **Factorial Calculation:** Supports iterative and recursive methods.
+- **Input Validation:** Accepts only valid positive integers.
+- **Smooth Animations:** Modal slides in and fades in.
+- **Result Display:** Shows factorial result and method used.
 
-## Features
-- Calculate factorial using iterative and recursive methods.
-- Input validation to ensure positive integers.
-- Responsive design with modal popup for input and results.
-
-## Technologies Used
+## Technologies
 - HTML
 - CSS
 - JavaScript
 
 ## Setup
-
-1. Clone the repository
-
-2. Open the `index.html` file in your browser to use the app.
-
-## Usage
-1. Click the "Calculate Factorial" button.
-2. Enter a positive integer.
-3. Click "Calculate" to see the result and the method used.
+1. Copy the provided code into a file named `index.html`.
+2. Open the file in any web browser.
+3. Click "Calculate Factorial", input a number, and view the result.
 
 ## License
-This project is licensed under the MIT License.
+MIT License
 
+## Acknowledgments
+- Inspired by modal animations tutorial.
